@@ -1,0 +1,10 @@
+name: fund_scale
+dependencies:
+- python=2
+- numpy
+- matplotlib
+- pandas
+- scikit-learn
+- scrapy
+- requests
+- json
